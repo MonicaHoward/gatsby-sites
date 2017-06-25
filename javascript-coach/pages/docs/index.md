@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro to Javascript String Manipulation
 ---
 
 **AlphabetJS** is the latest and greatest Javascript Framework. It's
